@@ -6,39 +6,39 @@ html, body{
     padding: 0;
 }
 
-.top-header {
+top-header {
     background-color: rgb(57, 57, 57);
 }
 
-.menu-item {
+menu-item {
     color: azure;
     padding: 15px;
     display: inline-block;
     text-decoration: none;
 }
 
-.brand {
+brand {
     font-size: 20px;
     font-weight: 1000px;
 }
 
-.main-content {
+main-content {
     max-width: 700px;
     margin: auto;
 }
-.Box{
+Box {
     background-color: #f5f5f5 ;
     margin: 20px;
     padding: 30px;
     
 }
 
-.Image {
+Image {
     width: 100%;
 
 }
 
-.button {
+button {
     color: Black;
     background-color: #d3d3d3;
     padding: 10px;
@@ -46,7 +46,7 @@ html, body{
     display: inline-block;
 }
 
-.bottom-footer {
+bottom-footer {
     color: azure;
     background-color: lightslategray;
     padding: 20px;
